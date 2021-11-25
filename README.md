@@ -23,14 +23,13 @@ Working to improve the experience of Azure Community with a little of everything
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shashishailaj&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/shashishailaj/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashishailaj&theme=tokyonight" />
+</a>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=shashishailaj"
     alt="gargakshit"
   />
 </p>
-
-<a href="https://github.com/shashishailaj/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashishailaj&theme=tokyonight" />
-</a>
-
