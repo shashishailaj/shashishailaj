@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building something worthwhile.. 
 
-I work on Azure technologies and help the community make their life easier to use azure technologies. 
+Working to improve the experience of Azure Community with a little of everything *cloud* in between. 
 
 <a href="https://github.com/shashishailaj/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shashishailaj&count_private=true&show_icons=true&theme=tokyonight" />
