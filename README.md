@@ -30,6 +30,6 @@ Working to improve the experience of Azure Community with a little of everything
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=shashishailaj"
-    alt="gargakshit"
+    alt="shashishailaj"
   />
 </p>
