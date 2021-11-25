@@ -24,7 +24,7 @@ Working to improve the experience of Azure Community with a little of everything
 </a>
 
 <a href="https://github.com/shashishailaj/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashishailaj&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashishailaj&theme=tokyonight" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashishailaj&theme=merko)](https://git.io/streak-stats)
