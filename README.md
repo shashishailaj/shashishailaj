@@ -34,9 +34,3 @@ Working to improve the experience of Azure Community with a little of everything
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashishailaj&theme=tokyonight" />
 </a>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=gargakshit"
-    alt="gargakshit"
-  />
-</p>
