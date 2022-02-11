@@ -35,3 +35,13 @@ Working to improve the experience of Azure Community with a little of everything
     alt="shashishailaj"
   />
 </p>
+
+
+## Hits
+[![HitCount](http://hits.dwyl.com/moozzyk/Signalr-Client-Swift.svg)](http://hits.dwyl.com/moozzyk/Signalr-Client-Swift)
+
+[![HitCount](http://hits.dwyl.com/shashishailaj/shashishailaj.svg?style=flat-square)](http://hits.dwyl.com/shashishailaj/shashishailaj)
+
+Unique Visitors
+[![HitCount](http://hits.dwyl.com/shashishailaj/shashishailaj.svg?style=flat-square&show=unique)](http://hits.dwyl.com/shashishailaj/shashishailaj)
+
