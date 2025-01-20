@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building something worthwhile.. 
+- 🔭 Always Curious , Always learning.. 
 
 Working to improve the experience of Azure Community with a little of everything *cloud* in between. 
 
